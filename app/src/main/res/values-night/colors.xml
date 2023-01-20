@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#050505</color>
+  <color name="colorPrimaryDark">#1b1e20</color>
+  <color name="background_color">#1b1e20</color>
+  <color name="text_color">#ffff</color>
+  <color name="button_color">#ffff</color>
+  <color name="namaz_color">#168E84</color>
+  <color name="shadow_dark">#111315</color>
+  <color name="shadow_light">#25282b</color>
+  <color name="menu_color">#168E84</color>
+  <color name="actionBar">#1f2022</color>
+  <color name="bottomBarBackground">#26272b</color>
+</resources>

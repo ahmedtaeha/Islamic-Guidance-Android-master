@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HugoMatilla:AudioPlayerView:v1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3df168b8e2e8e143abb8d08a4a3d15da/transformed/jetified-AudioPlayerView-v1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3df168b8e2e8e143abb8d08a4a3d15da/transformed/jetified-AudioPlayerView-v1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3df168b8e2e8e143abb8d08a4a3d15da/transformed/jetified-AudioPlayerView-v1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HugoMatilla/AudioPlayerView/v1.0.1/79dbf03cea3f20cbfd4e9ca33f0e95eb7cdaf7a7/AudioPlayerView-v1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HugoMatilla/AudioPlayerView/v1.0.1/a5ff4c6cd27119cc57f5401d99545340088022c7/AudioPlayerView-v1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

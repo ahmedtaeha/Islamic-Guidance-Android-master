@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Noor-ul-Huda.iml" filepath="$PROJECT_DIR$/.idea/modules/Noor-ul-Huda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.iml" filepath="$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.test.iml" filepath="$PROJECT_DIR$/.idea/modules/adhan-java/adhan/Noor-ul-Huda.adhan.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Noor-ul-Huda.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.iml" filepath="$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/beads/Noor-ul-Huda.beads.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.iml" filepath="$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Time4A/time4j-android/Noor-ul-Huda.time4j-android.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/arrow.xml" value="0.1935" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/backup_restore.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/black_transparent.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_about.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_back_icon.xml" value="0.1935" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_book.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_calendar.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_cancel.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_cancel_resized.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_check.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_circle.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_clock.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_colors.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_document.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_edit_icon.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_language.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_place.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_refresh.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_search.xml" value="0.197" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_send_colored.xml" value="0.2005" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/ic_settings.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/drawable/rounded_blue_bg.xml" value="0.268" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_allah_names.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_beads.xml" value="0.18" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_bookmark.xml" value="0.2" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_calendar.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_dua.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_hajj_detail.xml" value="0.25" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_hajj_ummrah.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_halal_places.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_live_makkah.xml" value="0.1578125" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_mains.xml" value="0.1824074074074074" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_onboarding.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_prayer_time.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_qibla.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_search_detail.xml" value="0.1625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_shahada.xml" value="0.25" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_splash.xml" value="0.1824074074074074" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_stories.xml" value="0.1828125" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_stories_detail.xml" value="0.1828125" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_surah_details.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_tasbeeh.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_test_salat.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/activity_web.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/compass.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/compass_dialog.xml" value="0.3614583333333333" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/content_home_fragment.xml" value="0.5" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/customlistview.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/duadetailview.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_dua_categories.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_dua_detail.xml" value="0.20104166666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_dua_topic.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_fund.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_initial_config.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_more.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_onboarding_adjustment_high_latitudes.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_onboarding_asr_calculation_method.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_onboarding_calculation_method.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_onboarding_time_format.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_search_q_a.xml" value="0.25" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_send_fund_request.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_surah.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/fragment_tasbeeh.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/item_row.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/pr_time_widget.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/pr_time_widget_dummy.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/receiver_player_sample.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/reminder_dialog.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/row_names.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/row_surah.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/rv_item_aayah.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_aya_list_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_events_row.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_funds_row.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_layout_of_halal_places.xml" value="0.33" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_row_surahdetail.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/sample_search_item.xml" value="0.3569230769230769" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/settings_activity.xml" value="0.18541666666666667" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/layout/topiclayout.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/about.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/calendar_menu.xml" value="0.3614583333333333" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/fund_menu.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/main_overflow.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/quran_menu.xml" value="0.3569230769230769" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/refresh_menu.xml" value="0.3569230769230769" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/menu/tasbih_menu.xml" value="0.3558974358974359" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/header_preferences.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/languages_preferences.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/messages_preferences.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/prayers_preferences.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/settings.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/app/src/main/res/xml/sync_preferences.xml" value="0.3625" />
+        <entry key="..\:/Clients/Ahmed Taha/NoorUlHuda/beads/src/main/res/layout/activity_main.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="@dimen/_60mdp"
+            android:layout_height="@dimen/_60mdp"
+            app:srcCompat="@drawable/halal_food" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_light"
+            android:gravity="center"
+            android:maxLength="15"
+            android:maxLines="2"
+            android:text="99 Names"
+            android:textColor="@color/menu_color"
+            android:textSize="@dimen/_12font_mdp" />
+
+</LinearLayout>

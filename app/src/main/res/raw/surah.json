@@ -1,0 +1,896 @@
+[
+    {
+        "html": "<span style=\"font-weight: 400;\">اَلۡحَمۡدُ </span>",
+        "id": 0,
+        "surah": "fatiha",
+        "word": "اَلۡحَمۡدُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لِلّٰهِ </span>",
+        "id": 1,
+        "surah": "fatiha",
+        "word": "لِلّٰهِ"
+    },
+    {
+        "html": "<span style=\"color: #339966;\">رَ</span>بِّ",
+        "id": 2,
+        "surah": "fatiha",
+        "word": "رَبِّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الۡ</span><span style=\"font-weight: 400; color: #0000ff;\">عٰ</span><span style=\"font-weight: 400;\">لَمِيۡنَۙ&rlm;</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 3,
+        "surah": "fatiha",
+        "word": "الۡعٰلَمِيۡنَۙ‏❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #339966;\">رَّ</span>حۡ<span style=\"color: #0000ff;\">مٰ</span>نِ</span>",
+        "id": 4,
+        "surah": "fatiha",
+        "word": "الرَّحۡمٰنِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #008000;\">رَّ</span>حِيۡمِۙ&rlm;❁</span>",
+        "id": 5,
+        "surah": "fatiha",
+        "word": "الرَّحِيۡمِۙ‏❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\"><span style=\"color: #0000ff;\">مٰ</span>لِكِ</span>",
+        "id": 6,
+        "surah": "fatiha",
+        "word": "مٰلِكِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">يَوۡمِ</span>",
+        "id": 7,
+        "surah": "fatiha",
+        "word": "يَوۡمِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الدِّيۡنِؕ&rlm;❁</span>",
+        "id": 8,
+        "surah": "fatiha",
+        "word": "الدِّيۡنِؕ‏❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اِ<span style=\"color: #0000ff;\">يَّ</span>اكَ</span>",
+        "id": 9,
+        "surah": "fatiha",
+        "word": "اِيَّاكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">نَعۡبُدُ</span>",
+        "id": 10,
+        "surah": "fatiha",
+        "word": "نَعۡبُدُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَاِ</span><span style=\"font-weight: 400; color: #0000ff;\">يَّ</span><span style=\"font-weight: 400;\">اكَ</span>",
+        "id": 11,
+        "surah": "fatiha",
+        "word": "وَاِيَّاكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">نَسۡتَعِيۡنُؕ❁</span>",
+        "id": 12,
+        "surah": "fatiha",
+        "word": "نَسۡتَعِيۡنُؕ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اِهۡدِنَا</span>",
+        "id": 13,
+        "surah": "fatiha",
+        "word": "اِهۡدِنَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #008000;\">صِّ</span><span style=\"color: #ff6600;\">رَ</span>اطَ</span>",
+        "id": 14,
+        "surah": "fatiha",
+        "word": "الصِّرَاطَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الۡمُسۡتَ</span><span style=\"font-weight: 400; color: #008000;\">قِ</span><span style=\"font-weight: 400;\">يۡمَۙ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 15,
+        "surah": "fatiha",
+        "word": "الۡمُسۡتَقِيۡمَۙ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">صِ</span><span style=\"font-weight: 400; color: #ff6600;\">رَ</span><span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400; color: #008000;\">طَ</span>",
+        "id": 16,
+        "surah": "fatiha",
+        "word": "صِرَاطَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الَّ</span><span style=\"font-weight: 400; color: #0000ff;\">ذِ</span><span style=\"font-weight: 400;\">يۡنَ</span>",
+        "id": 17,
+        "surah": "fatiha",
+        "word": "الَّذِيۡنَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اَنۡعَمۡتَ</span>",
+        "id": 18,
+        "surah": "fatiha",
+        "word": "اَنۡعَمۡتَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيۡهِمۡ ۙ &rlm;</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 19,
+        "surah": "fatiha",
+        "word": "عَلَيۡهِمۡ ۙ ‏❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">غَيۡرِ</span>",
+        "id": 20,
+        "surah": "fatiha",
+        "word": "غَيۡرِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الۡمَ</span><span style=\"font-weight: 400; color: #008000;\">غۡضُ</span><span style=\"font-weight: 400;\">وۡبِ</span>",
+        "id": 21,
+        "surah": "fatiha",
+        "word": "الۡمَغۡضُوۡبِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيۡهِمۡ</span>",
+        "id": 22,
+        "surah": "fatiha",
+        "word": "عَلَيۡهِمۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَلَا</span>",
+        "id": 23,
+        "surah": "fatiha",
+        "word": "وَلَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #0000ff;\">ضَّ</span>آلِّيۡنَ &rlm;❁</span>",
+        "id": 24,
+        "surah": "fatiha",
+        "word": "الضَّآلِّيۡنَ ‏❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَعُوذُ</span>",
+        "id": 25,
+        "surah": "tsmia",
+        "word": "أَعُوذُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">بِاللَّهِ</span>",
+        "id": 26,
+        "surah": "tsmia",
+        "word": "بِاللَّهِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مِنَ</span>",
+        "id": 27,
+        "surah": "tsmia",
+        "word": "مِنَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لشَّيْ</span><span style=\"font-weight: 400; color: #008000;\">طَ</span><span style=\"font-weight: 400;\">انِ</span>",
+        "id": 28,
+        "surah": "tsmia",
+        "word": "لشَّيْطَانِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال</span><span style=\"font-weight: 400; color: #008000;\">رَّ</span><span style=\"font-weight: 400;\">جِيمِ</span>",
+        "id": 29,
+        "surah": "tsmia",
+        "word": "الرَّجِيمِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">بِسۡمِ</span>",
+        "id": 30,
+        "surah": "taoz",
+        "word": "بِسۡمِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱللَّهِ</span>",
+        "id": 31,
+        "surah": "taoz",
+        "word": "ٱللَّهِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱل</span><span style=\"font-weight: 400; color: #008000;\">رَّ</span><span style=\"font-weight: 400;\">حۡمَـٰنِ</span>",
+        "id": 32,
+        "surah": "taoz",
+        "word": "ٱلرَّحۡمَـٰنِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱل</span><span style=\"font-weight: 400; color: #008000;\">رَّ</span><span style=\"font-weight: 400;\">حِيمِ</span>",
+        "id": 33,
+        "surah": "taoz",
+        "word": "ٱلرَّحِيمِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">&nbsp;اللّٰهُ</span>",
+        "id": 34,
+        "surah": "Allah ho akbar",
+        "word": "اللّٰهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَكْبَ</span><span style=\"font-weight: 400; color: #008000;\">ر</span>",
+        "id": 35,
+        "surah": "Allah ho akbar",
+        "word": "أَكْبَر"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">سُبْ</span><span style=\"font-weight: 400; color: #0000ff;\">حَ</span><span style=\"font-weight: 400;\">انَكَ</span>",
+        "id": 36,
+        "surah": "sana",
+        "word": "سُبْحَانَكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال</span><span style=\"font-weight: 400; color: #ff6600;\">لَّ</span><span style=\"font-weight: 400;\">هُمَّ</span>",
+        "id": 37,
+        "surah": "sana",
+        "word": "اللَّهُمَّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَبِحَمْدِكَ</span>",
+        "id": 38,
+        "surah": "sana",
+        "word": "وَبِحَمْدِكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَتَبَا</span><span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400;\">كَ</span>",
+        "id": 39,
+        "surah": "sana",
+        "word": "وَتَبَارَكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اسْمُكَ</span>",
+        "id": 40,
+        "surah": "sana",
+        "word": "اسْمُكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَتَ</span><span style=\"font-weight: 400; color: #0000ff;\">عَ</span><span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400; color: #0000ff;\">لَ</span><span style=\"font-weight: 400;\">ى</span>",
+        "id": 41,
+        "surah": "sana",
+        "word": "وَتَعَالَى"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">جَدُّكَ</span>",
+        "id": 42,
+        "surah": "sana",
+        "word": "جَدُّكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَ</span><span style=\"font-weight: 400; color: #0000ff;\">لاَ</span>",
+        "id": 43,
+        "surah": "sana",
+        "word": "وَلاَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِ</span><span style=\"font-weight: 400; color: #0000ff;\">لَ</span><span style=\"font-weight: 400;\">هَ</span>",
+        "id": 44,
+        "surah": "sana",
+        "word": "إِلَهَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">غَ</span><span style=\"font-weight: 400;\">يْ</span><span style=\"font-weight: 400; color: #008000;\">رُ</span><span style=\"font-weight: 400;\">كَ</span>",
+        "id": 45,
+        "surah": "sana",
+        "word": "غَيْرُكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">قُ</span><span style=\"font-weight: 400;\">لۡ</span>",
+        "id": 46,
+        "surah": "Surah Ikhlas",
+        "word": "قُلۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">هُوَ</span>",
+        "id": 47,
+        "surah": "Surah Ikhlas",
+        "word": "هُوَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱل<span style=\"color: #008000;\">لَّ</span>هُ</span>",
+        "id": 48,
+        "surah": "Surah Ikhlas",
+        "word": "ٱللَّهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَحَدٌ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 49,
+        "surah": "Surah Ikhlas",
+        "word": "أَحَدٌ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱل<span style=\"color: #008000;\">لَّ</span>هُ</span>",
+        "id": 50,
+        "surah": "Surah Ikhlas",
+        "word": "ٱللَّهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ٱل</span><span style=\"font-weight: 400;\">صَّ</span><span style=\"font-weight: 400; color: #008000;\">مَدُ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 51,
+        "surah": "Surah Ikhlas",
+        "word": "ٱلصَّمَدُ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لَمۡ</span>",
+        "id": 52,
+        "surah": "Surah Ikhlas",
+        "word": "لَمۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">يَلِدۡ</span>",
+        "id": 53,
+        "surah": "Surah Ikhlas",
+        "word": "يَلِدۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَلَمۡ</span>",
+        "id": 54,
+        "surah": "Surah Ikhlas",
+        "word": "وَلَمۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #0000ff;\">يُ</span><span style=\"font-weight: 400;\">ولَدۡ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 55,
+        "surah": "Surah Ikhlas",
+        "word": "يُولَدۡ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَلَمۡ</span>",
+        "id": 56,
+        "surah": "Surah Ikhlas",
+        "word": "وَلَمۡ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">يَكُن</span>",
+        "id": 57,
+        "surah": "Surah Ikhlas",
+        "word": "يَكُن"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لَّهُۥ</span>",
+        "id": 58,
+        "surah": "Surah Ikhlas",
+        "word": "لَّهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">كُفُوًا</span>",
+        "id": 59,
+        "surah": "Surah Ikhlas",
+        "word": "كُفُوًا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَحَدُۢ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 60,
+        "surah": "Surah Ikhlas",
+        "word": "أَحَدُۢ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">سُبْ</span><span style=\"font-weight: 400; color: #0000ff;\">حَ</span><span style=\"font-weight: 400;\">انَ</span>",
+        "id": 61,
+        "surah": "ruko",
+        "word": "سُبْحَانَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400;\">بِّيَ</span>",
+        "id": 62,
+        "surah": "ruko",
+        "word": "رَبِّيَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الْعَ</span><span style=\"font-weight: 400; color: #ff6600;\">ظِ</span><span style=\"font-weight: 400;\">يمِ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 63,
+        "surah": "ruko",
+        "word": "الْعَظِيمِ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">سُ</span><span style=\"font-weight: 400; color: #0000ff;\">بْحَ</span><span style=\"font-weight: 400;\">انَ</span>",
+        "id": 64,
+        "surah": "sajda",
+        "word": "سُبْحَانَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400;\">بِّيَ</span>",
+        "id": 65,
+        "surah": "sajda",
+        "word": "رَبِّيَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الأَعْ</span><span style=\"font-weight: 400; color: #0000ff;\">لَى</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 66,
+        "surah": "sajda",
+        "word": "الأَعْلَى❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لتَّحِ</span><span style=\"font-weight: 400; color: #008000;\">يَّ</span><span style=\"font-weight: 400;\"><span style=\"color: #008000;\">ا</span>تُ</span>",
+        "id": 67,
+        "surah": "tashahhud",
+        "word": "لتَّحِيَّاتُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #008000;\">لَّ</span>هِ</span>",
+        "id": 68,
+        "surah": "tashahhud",
+        "word": "لِلَّهِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَال</span><span style=\"font-weight: 400; color: #008000;\">صَّ</span><span style=\"font-weight: 400; color: #0000ff;\">لَوَ</span><span style=\"font-weight: 400;\">اتُ</span>",
+        "id": 69,
+        "surah": "tashahhud",
+        "word": "وَالصَّلَوَاتُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَال</span><span style=\"font-weight: 400; color: #008000;\">طَّ</span><span style=\"font-weight: 400;\">يِّ</span><span style=\"font-weight: 400; color: #0000ff;\">بَا</span><span style=\"font-weight: 400;\">تُ،</span>",
+        "id": 70,
+        "surah": "tashahhud",
+        "word": "وَالطَّيِّبَاتُ،"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">السَّ</span><span style=\"font-weight: 400;\"><span style=\"color: #0000ff;\">لاَ</span></span><span style=\"font-weight: 400;\">مُ</span>",
+        "id": 71,
+        "surah": "tashahhud",
+        "word": "السَّلاَمُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيْكَ</span>",
+        "id": 72,
+        "surah": "tashahhud",
+        "word": "عَلَيْكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَيُّهَا</span>",
+        "id": 73,
+        "surah": "tashahhud",
+        "word": "أَيُّهَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">النَّبِيُّ</span>",
+        "id": 74,
+        "surah": "tashahhud",
+        "word": "النَّبِيُّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَ<span style=\"color: #008000;\">رَ</span>حْمَةُ</span>",
+        "id": 75,
+        "surah": "tashahhud",
+        "word": "وَرَحْمَةُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #008000;\">لَّ</span>هِ</span>",
+        "id": 76,
+        "surah": "tashahhud",
+        "word": "اللَّهِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَبَ</span><span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400; color: #0000ff;\">كَ</span><span style=\"font-weight: 400;\">اتُهُ،</span>",
+        "id": 77,
+        "surah": "tashahhud",
+        "word": "وَبَرَكَاتُهُ،"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">السَّ</span><span style=\"font-weight: 400;\"><span style=\"color: #0000ff;\">لاَ</span></span><span style=\"font-weight: 400;\">مُ</span>",
+        "id": 78,
+        "surah": "tashahhud",
+        "word": "السَّلاَمُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيْ</span><span style=\"font-weight: 400; color: #0000ff;\">نَ</span><span style=\"font-weight: 400;\">ا</span>",
+        "id": 79,
+        "surah": "tashahhud",
+        "word": "عَلَيْنَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَعَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَ</span><span style=\"font-weight: 400;\">ى</span>",
+        "id": 80,
+        "surah": "tashahhud",
+        "word": "وَعَلَى"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عِ</span><span style=\"font-weight: 400; color: #0000ff;\">بَ</span><span style=\"font-weight: 400;\">ادِ</span>",
+        "id": 81,
+        "surah": "tashahhud",
+        "word": "عِبَادِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال<span style=\"color: #008000;\">لَّ</span>هِ</span>",
+        "id": 82,
+        "surah": "tashahhud",
+        "word": "اللَّهِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال</span><span style=\"font-weight: 400; color: #ff6600;\">صَّ</span><span style=\"font-weight: 400;\">الِحِينَ،</span>",
+        "id": 83,
+        "surah": "tashahhud",
+        "word": "الصَّالِحِينَ،"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَشْهَدُ</span>",
+        "id": 84,
+        "surah": "tashahhud",
+        "word": "أَشْهَدُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَنْ</span>",
+        "id": 85,
+        "surah": "tashahhud",
+        "word": "أَنْ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">لاَ</span>",
+        "id": 86,
+        "surah": "tashahhud",
+        "word": "لاَ"
+    },
+    {
+        "html": "إِ<span style=\"color: #0000ff;\">لَ</span>هَ",
+        "id": 87,
+        "surah": "tashahhud",
+        "word": "إِلَهَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِلاَّ</span>",
+        "id": 88,
+        "surah": "tashahhud",
+        "word": "إِلاَّ"
+    },
+    {
+        "html": "ال<span style=\"color: #008000;\">لَّ</span>هُ",
+        "id": 89,
+        "surah": "tashahhud",
+        "word": "اللَّهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَأَشْهَدُ</span>",
+        "id": 90,
+        "surah": "tashahhud",
+        "word": "وَأَشْهَدُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">أَنَّ</span>",
+        "id": 91,
+        "surah": "tashahhud",
+        "word": "أَنَّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُحَمَّدًا</span>",
+        "id": 92,
+        "surah": "tashahhud",
+        "word": "مُحَمَّدًا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَبْدُ</span><span style=\"font-weight: 400; color: #0000ff;\">هُ</span>",
+        "id": 93,
+        "surah": "tashahhud",
+        "word": "عَبْدُهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَ</span><span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400; color: #0000ff;\">سُ</span><span style=\"font-weight: 400;\">ولُ</span><span style=\"font-weight: 400; color: #0000ff;\">هُ</span>",
+        "id": 94,
+        "surah": "tashahhud",
+        "word": "وَرَسُولُهُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ال</span><span style=\"font-weight: 400; color: #ff6600;\">لَّ</span><span style=\"font-weight: 400;\">هُمَّ</span>",
+        "id": 95,
+        "surah": "darood",
+        "word": "اللَّهُمَّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">صَ</span><span style=\"font-weight: 400;\">لِّ</span>",
+        "id": 96,
+        "surah": "darood",
+        "word": "صَلِّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَ</span><span style=\"font-weight: 400; color: #0000ff;\">ىٰ</span>",
+        "id": 97,
+        "surah": "darood",
+        "word": "عَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُحَمَّدٍ</span>",
+        "id": 98,
+        "surah": "darood",
+        "word": "مُحَمَّدٍ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَعَلَ</span><span style=\"font-weight: 400; color: #0000ff;\">ىٰ</span>",
+        "id": 99,
+        "surah": "darood",
+        "word": "وَعَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">آ</span><span style=\"font-weight: 400;\">لِ</span>",
+        "id": 100,
+        "surah": "darood",
+        "word": "آلِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُحَمَّدٍ</span>",
+        "id": 101,
+        "surah": "darood",
+        "word": "مُحَمَّدٍ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">كَ</span><span style=\"font-weight: 400; color: #0000ff;\">مَ</span><span style=\"font-weight: 400;\">ا</span>",
+        "id": 102,
+        "surah": "darood",
+        "word": "كَمَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">صَ</span><span style=\"font-weight: 400;\">لَّيْتَ</span>",
+        "id": 103,
+        "surah": "darood",
+        "word": "صَلَّيْتَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَىٰ</span>",
+        "id": 104,
+        "surah": "darood",
+        "word": "عَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِبْ</span><span style=\"font-weight: 400; color: #ff6600;\">رَا</span><span style=\"font-weight: 400; color: #0000ff;\">هِ</span><span style=\"font-weight: 400;\">يمَ</span>",
+        "id": 105,
+        "surah": "darood",
+        "word": "إِبْرَاهِيمَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَعَلَ</span><span style=\"font-weight: 400; color: #0000ff;\">ىٰ</span>",
+        "id": 106,
+        "surah": "darood",
+        "word": "وَعَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #0000ff;\">آ</span><span style=\"font-weight: 400;\">لِ</span>",
+        "id": 107,
+        "surah": "darood",
+        "word": "آلِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِبْ</span><span style=\"font-weight: 400; color: #ff6600;\">رَ</span><span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400; color: #0000ff;\">هِ</span><span style=\"font-weight: 400;\">يمَ</span>",
+        "id": 108,
+        "surah": "darood",
+        "word": "إِبْرَاهِيمَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِنَّكَ</span>",
+        "id": 109,
+        "surah": "darood",
+        "word": "إِنَّكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">حَ</span><span style=\"font-weight: 400; color: #0000ff;\">مِ</span><span style=\"font-weight: 400;\"><span style=\"color: #0000ff;\">ي</span>دٌ</span>",
+        "id": 110,
+        "surah": "darood",
+        "word": "حَمِيدٌ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مَ</span><span style=\"font-weight: 400; color: #0000ff;\">جِ</span><span style=\"font-weight: 400;\">يدٌ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 111,
+        "surah": "darood",
+        "word": "مَجِيدٌ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #000000;\">ال</span><span style=\"font-weight: 400; color: #ff6600;\">لَّ</span><span style=\"font-weight: 400;\">هُمَّ</span>",
+        "id": 112,
+        "surah": "darood",
+        "word": "اللَّهُمَّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #0000ff;\">بَ</span><span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400; color: #008000;\">رِ</span><span style=\"font-weight: 400;\">كْ</span>",
+        "id": 113,
+        "surah": "darood",
+        "word": "بَارِكْ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَىٰ</span>",
+        "id": 114,
+        "surah": "darood",
+        "word": "عَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُحَمَّدٍ</span>",
+        "id": 115,
+        "surah": "darood",
+        "word": "مُحَمَّدٍ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَعَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَىٰ</span>",
+        "id": 116,
+        "surah": "darood",
+        "word": "وَعَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #0000ff;\">آ</span><span style=\"font-weight: 400;\">لِ</span>",
+        "id": 117,
+        "surah": "darood",
+        "word": "آلِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُحَمَّدٍ</span>",
+        "id": 118,
+        "surah": "darood",
+        "word": "مُحَمَّدٍ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">كَ</span><span style=\"font-weight: 400; color: #0000ff;\">مَ</span><span style=\"font-weight: 400;\">ا</span>",
+        "id": 119,
+        "surah": "darood",
+        "word": "كَمَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">بَارَكْتَ</span>",
+        "id": 120,
+        "surah": "darood",
+        "word": "بَارَكْتَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَىٰ</span>",
+        "id": 121,
+        "surah": "darood",
+        "word": "عَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِبْ</span><span style=\"font-weight: 400; color: #ff6600;\">رَ</span><span style=\"font-weight: 400;\">اهِيمَ</span>",
+        "id": 122,
+        "surah": "darood",
+        "word": "إِبْرَاهِيمَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #000000;\">وَعَ</span><span style=\"font-weight: 400; color: #0000ff;\">لَىٰ</span>",
+        "id": 123,
+        "surah": "darood",
+        "word": "وَعَلَىٰ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #0000ff;\">آ</span><span style=\"font-weight: 400;\">لِ</span>",
+        "id": 124,
+        "surah": "darood",
+        "word": "آلِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِبْ</span><span style=\"font-weight: 400; color: #ff6600;\">رَا</span><span style=\"font-weight: 400; color: #0000ff;\">هِ</span><span style=\"font-weight: 400;\">يمَ</span>",
+        "id": 125,
+        "surah": "darood",
+        "word": "إِبْرَاهِيمَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">إِنَّكَ</span>",
+        "id": 126,
+        "surah": "darood",
+        "word": "إِنَّكَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">حَ</span><span style=\"font-weight: 400; color: #0000ff;\">مِ</span><span style=\"font-weight: 400;\">يدٌ</span>",
+        "id": 127,
+        "surah": "darood",
+        "word": "حَمِيدٌ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مَ</span><span style=\"font-weight: 400; color: #0000ff;\">جِ</span><span style=\"font-weight: 400;\">يدٌ</span><span style=\"font-weight: 400;\">❁</span>",
+        "id": 128,
+        "surah": "darood",
+        "word": "مَجِيدٌ❁"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400;\">بِّ</span>",
+        "id": 129,
+        "surah": "dua",
+        "word": "رَبِّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اجْعَلْ</span><span style=\"font-weight: 400; color: #0000ff;\">نِ</span><span style=\"font-weight: 400;\">ي</span>",
+        "id": 130,
+        "surah": "dua",
+        "word": "اجْعَلْنِي"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">مُ</span><span style=\"font-weight: 400; color: #ff6600;\">قِ</span><span style=\"font-weight: 400;\">يمَ</span>",
+        "id": 131,
+        "surah": "dua",
+        "word": "مُقِيمَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400;\">ل<span style=\"color: #008000;\">صَّ</span></span><span style=\"font-weight: 400;\">لَاةِ</span>",
+        "id": 132,
+        "surah": "dua",
+        "word": "الصَّلَاةِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَمِنْ</span>",
+        "id": 133,
+        "surah": "dua",
+        "word": "وَمِنْ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ذُ</span><span style=\"font-weight: 400; color: #008000;\">رِّ</span><span style=\"font-weight: 400;\">يَّ</span><span style=\"font-weight: 400; color: #0000ff;\">تِ</span><span style=\"font-weight: 400;\">ي ۚ </span>",
+        "id": 134,
+        "surah": "dua",
+        "word": "ذُرِّيَّتِي ۚ "
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">رَبَّ</span><span style=\"font-weight: 400; color: #0000ff;\">نَ</span><span style=\"font-weight: 400;\">ا</span>",
+        "id": 135,
+        "surah": "dua",
+        "word": "رَبَّنَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَتَ</span><span style=\"font-weight: 400; color: #008000;\">قَ</span><span style=\"font-weight: 400;\">بَّلْ</span>",
+        "id": 136,
+        "surah": "dua",
+        "word": "وَتَقَبَّلْ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">دُ</span><span style=\"font-weight: 400; color: #0000ff;\">عَ</span><span style=\"font-weight: 400;\">اءِ</span>",
+        "id": 137,
+        "surah": "dua",
+        "word": "دُعَاءِ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400; color: #008000;\">رَ</span><span style=\"font-weight: 400;\">بَّنَا</span>",
+        "id": 138,
+        "surah": "dua",
+        "word": "رَبَّنَا"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">ا</span><span style=\"font-weight: 400; color: #008000;\">غْ</span><span style=\"font-weight: 400;\">فِ</span><span style=\"font-weight: 400; color: #008000;\">رْ</span><span style=\"font-weight: 400; color: #0000ff;\">لِ</span><span style=\"font-weight: 400;\">ي</span>",
+        "id": 139,
+        "surah": "dua",
+        "word": "اغْفِرْلِي"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَلِ</span><span style=\"font-weight: 400; color: #0000ff;\">وَ</span><span style=\"font-weight: 400;\">الِدَيَّ</span>",
+        "id": 140,
+        "surah": "dua",
+        "word": "وَلِوَالِدَيَّ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">وَلِلْمُؤْمِ</span><span style=\"font-weight: 400; color: #0000ff;\">نِ</span><span style=\"font-weight: 400;\">ينَ</span>",
+        "id": 141,
+        "surah": "dua",
+        "word": "وَلِلْمُؤْمِنِينَ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">يَوْمَ</span>",
+        "id": 142,
+        "surah": "dua",
+        "word": "يَوْمَ"
+    },
+    {
+        "html": "<span style=\"color: #ff6600;\"><span style=\"font-weight: 400; color: #000000;\">يَ</span><span style=\"font-weight: 400;\">قُ</span></span><span style=\"font-weight: 400;\">ومُ</span>",
+        "id": 143,
+        "surah": "dua",
+        "word": "يَقُومُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">الْحِ</span><span style=\"font-weight: 400; color: #0000ff;\">سَ</span><span style=\"font-weight: 400;\">ابُ</span>",
+        "id": 144,
+        "surah": "dua",
+        "word": "الْحِسَابُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">السَّ</span><span style=\"font-weight: 400; color: #0000ff;\">لاَ</span><span style=\"font-weight: 400;\">مُ</span>",
+        "id": 145,
+        "surah": "salam",
+        "word": "السَّلاَمُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيْكُمْ</span>",
+        "id": 146,
+        "surah": "salam",
+        "word": "عَلَيْكُمْ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">عَلَيْكُمْ</span>",
+        "id": 147,
+        "surah": "salam",
+        "word": "وَرَحْمَةُ"
+    },
+    {
+        "html": "<span style=\"font-weight: 400;\">اللهِ</span>",
+        "id": 148,
+        "surah": "salam",
+        "word": "اللهِ"
+    }
+]

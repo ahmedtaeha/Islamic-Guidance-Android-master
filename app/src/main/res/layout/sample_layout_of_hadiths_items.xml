@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/imageView24"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_60mdp"
+app:cardCornerRadius="20dp"
+        app:cardBackgroundColor="#fafafa"
+android:elevation="5dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/hadithsBookName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From Imam Bukhari,"
+        android:elevation="6dp"
+        android:textColor="@color/gray_clr"
+        android:textSize="@dimen/_10font_mdp"
+        app:layout_constraintStart_toStartOf="@+id/hadithsType"
+        app:layout_constraintTop_toBottomOf="@+id/hadithsType" />
+
+    <View
+        android:id="@+id/view10"
+        android:layout_width="@dimen/_45mdp"
+        android:layout_height="@dimen/_40mdp"
+        android:background="@drawable/hadiths_rectangle_box"
+
+        android:elevation="6dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="@+id/imageView24"
+        app:layout_constraintTop_toTopOf="@+id/imageView24" />
+
+    <TextView
+        android:id="@+id/hadithsType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:elevation="6dp"
+
+        android:text="Bukhari"
+        android:textColor="#2f8079 "
+        android:textSize="@dimen/_14font_mdp"
+        app:layout_constraintBottom_toBottomOf="@+id/view10"
+        app:layout_constraintStart_toEndOf="@+id/view10"
+        app:layout_constraintTop_toTopOf="@+id/view10"
+        app:layout_constraintVertical_bias="0.13999999" />
+
+    <TextView
+        android:id="@+id/totalNoOfHadiths"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray_clr"
+        android:elevation="6dp"
+
+        android:text=" 7563"
+        android:textSize="@dimen/_10font_mdp"
+
+        app:layout_constraintBottom_toBottomOf="@+id/hadithsBookName"
+        app:layout_constraintStart_toEndOf="@+id/hadithsBookName"
+        app:layout_constraintTop_toBottomOf="@+id/hadithsType" />
+
+    <TextView
+        android:id="@+id/hadithWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="6dp"
+
+        android:text="B"
+        android:textColor="@color/background_clr"
+        android:textSize="@dimen/_21font_mdp"
+        app:layout_constraintBottom_toBottomOf="@+id/view10"
+        app:layout_constraintEnd_toEndOf="@+id/view10"
+        app:layout_constraintStart_toStartOf="@+id/view10"
+        app:layout_constraintTop_toTopOf="@+id/view10" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

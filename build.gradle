@@ -1,0 +1,52 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://plugins.gradle.org/m2/'}
+//
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.1'
+//        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.11.0, 0.99.99]'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.1'
+
+        classpath "io.realm:realm-gradle-plugin:10.10.1"
+
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
+
+        // From Time4A/build.gradle
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.8.0'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
+    }
+}
+
+//plugins {
+//    id 'com.github.sherter.google-java-format' version '0.9'
+//}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://maven.google.com' }
+    }
+
+    tasks.withType(JavaCompile) {
+        options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+    }
+
+    project.ext {
+        compileSdkVer = 31
+        buildToolsVer = "31.0.0"
+        minSdkVer = 24
+        targetSdkVer = 31
+        ndkVer = "22.1.7171670"
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

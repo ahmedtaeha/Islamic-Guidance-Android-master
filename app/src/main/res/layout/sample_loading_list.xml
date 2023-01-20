@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/HajjUmrrahBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50mdp"
+        android:layout_gravity="center"
+
+        android:layout_marginStart="8dp"
+        android:background="@drawable/rounded_box_1"
+        android:backgroundTint="@color/graydark"
+
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="2dp"
+        android:padding="1dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:riv_border_color="#333333"
+        app:riv_corner_radius="5dp"
+
+        tools:ignore="MissingConstraints" />
+
+    <View
+        android:id="@+id/gridTitle"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_10mdp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#656565"
+        app:layout_constraintBottom_toBottomOf="@+id/HajjUmrrahBackground"
+        app:layout_constraintEnd_toEndOf="@+id/HajjUmrrahBackground"
+        app:layout_constraintStart_toStartOf="@+id/HajjUmrrahBackground"
+        app:layout_constraintTop_toTopOf="@+id/HajjUmrrahBackground" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

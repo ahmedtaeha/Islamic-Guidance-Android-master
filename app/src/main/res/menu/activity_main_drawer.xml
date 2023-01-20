@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dua_mood"
+            android:icon="@drawable/c7"
+            android:title="Ayat for my mood" />
+        <item
+            android:id="@+id/categories"
+            android:icon="@drawable/c4"
+            android:title="Categories" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/search"
+            android:title="Search" />
+        <item
+            android:id="@+id/nav_allah"
+            android:icon="@drawable/allah"
+            android:title="99 Allah Names" />
+
+        <item
+            android:id="@+id/nav_naats"
+            android:icon="@drawable/naats"
+            android:title="Naats" />
+
+        <item
+            android:id="@+id/nav_kalimas"
+            android:icon="@drawable/kalimaicon"
+            android:title="6 Kalimas" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share with friends" />
+            <item
+                android:id="@+id/review"
+                android:icon="@drawable/star"
+                android:title="Leave a review" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/privacy"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.manojbhadane:Holdy:v1.6.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fcd19de9446febd35732c5a421b509e1/transformed/jetified-Holdy-v1.6.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fcd19de9446febd35732c5a421b509e1/transformed/jetified-Holdy-v1.6.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fcd19de9446febd35732c5a421b509e1/transformed/jetified-Holdy-v1.6.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.manojbhadane/Holdy/v1.6.4/2e11db6dd85cde0766658f349fbb14150aedf574/Holdy-v1.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

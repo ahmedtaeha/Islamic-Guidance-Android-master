@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/duacard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <soup.neumorphism.NeumorphCardView
+        android:id="@+id/fajarCard"
+        style="@style/Widget.Neumorph.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:neumorph_inset="12dp"
+        app:neumorph_insetBottom="12dp"
+        app:neumorph_insetEnd="12dp"
+        app:neumorph_insetStart="12dp"
+        app:neumorph_insetTop="12dp"
+        app:neumorph_lightSource="leftTop"
+        app:neumorph_shadowColorDark="@color/shadow_dark"
+        app:neumorph_shadowColorLight="@color/shadow_light"
+        app:neumorph_shadowElevation="2dp"
+        app:neumorph_shapeType="flat">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:gravity="center_vertical|fill_horizontal"
+                android:orientation="horizontal"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp">
+
+                <TextView
+                    android:id="@+id/ref_DuaDetail"
+                    android:layout_width="260dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:layout_weight="2.29"
+                    android:text="Reference"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/bookmark"
+                    android:layout_width="@dimen/_24mdp"
+                    android:layout_height="@dimen/_24mdp"
+                    android:layout_marginRight="10dp"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/ic_bookmark_empty" />
+
+                <ImageView
+                    android:id="@+id/shareDuaBtn"
+                    android:layout_width="@dimen/_24mdp"
+                    android:layout_height="@dimen/_24mdp"
+                    android:layout_marginRight="10dp"
+                    android:scaleType="centerInside"
+                    app:srcCompat="@drawable/ic_share" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <TextView
+                    android:id="@+id/arabic_duaDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="اللَّهُمَّ أَذْهِبْ غَيْظَ قَلْبِي"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_color"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:id="@+id/transliterationLbl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Transliteration"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_primary_dark"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/transliteration_DuaDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Transliteration"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_color"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/urduLbl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Urdu"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_primary_dark"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/urdu_DuaDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Urdu"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_color"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/englishLbl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="English"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_primary_dark"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/english_DuaDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="English"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_color"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/bahasaLbl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Bahasa Melayu"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_primary_dark"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/bahasa_DuaDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="English"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_color"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </soup.neumorphism.NeumorphCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

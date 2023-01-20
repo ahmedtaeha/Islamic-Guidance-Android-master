@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/dialog_title_background_color"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/surahDetailTitle_popup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="20dp"
+            android:text="Surah Fateha: Verse 1 "
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/shareVerseDetail_popup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/share_icon"
+            android:drawablePadding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:text="Share Verse"
+            android:textAlignment="textStart" />
+
+        <Button
+            android:id="@+id/copyVerseDetail_popup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/copy_icon"
+            android:drawablePadding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:text="Copy Verse"
+            android:textAlignment="textStart" />
+
+    </LinearLayout>
+
+</LinearLayout>

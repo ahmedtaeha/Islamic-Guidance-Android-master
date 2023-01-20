@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/adhan-java/adhan/build/
+/adhan-java/adhan/build/classes/java/main/

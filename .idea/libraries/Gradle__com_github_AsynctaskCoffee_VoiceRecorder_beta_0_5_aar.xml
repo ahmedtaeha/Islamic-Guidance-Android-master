@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AsynctaskCoffee:VoiceRecorder:beta-0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9f36d4f4caea8f96203190be357e0ea6/transformed/jetified-VoiceRecorder-beta-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f36d4f4caea8f96203190be357e0ea6/transformed/jetified-VoiceRecorder-beta-0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f36d4f4caea8f96203190be357e0ea6/transformed/jetified-VoiceRecorder-beta-0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AsynctaskCoffee/VoiceRecorder/beta-0.5/def75058052fa88e1c7b8f768081b1d994e3e298/VoiceRecorder-beta-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

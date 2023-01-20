@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/defaultlang"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        android:key="lang"
+        android:summary="Select your language"
+        android:title="Language" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="transliteration"
+        android:summary="This option if selected will show the transliteration."
+        android:title="Transliteration" />
+    <CheckBoxPreference android:title="Urdu Translation"
+        android:defaultValue="true"
+        android:summary="This option if selected will show the urdu translation."
+        android:key="urduCheck" />
+    <CheckBoxPreference android:title="English Translation"
+        android:defaultValue="true"
+        android:summary="This option if selected will show the english translation."
+        android:key="englishCheck" />
+    <CheckBoxPreference android:title="Bahasa Melayu Translation"
+        android:defaultValue="false"
+        android:summary="This option if selected will show the bahasa melayu translation."
+        android:key="bahasaCheck" />
+
+</PreferenceScreen>

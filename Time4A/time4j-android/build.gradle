@@ -1,0 +1,82 @@
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'time4j-android'
+
+    publishedGroupId = 'net.time4j'
+    libraryName = 'Time4J-Android'
+    artifact = 'time4j-android'
+
+    libraryDescription = 'Advanced Date and Time library for Android'
+
+    siteUrl = 'https://github.com/menodata/Time4A'
+    gitUrl = 'https://github.com/menodata/Time4A.git'
+
+    libraryVersion = '4.8-2021a'
+
+    developerId = 'mhochschild'
+    developerName = 'Meno Hochschild'
+    developerEmail = 'mhochschild@gmx.de'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+gradle.projectsEvaluated {
+    tasks.withType(JavaCompile) {
+        options.debug = true
+        options.debugOptions.debugLevel = "source,lines"
+        options.compilerArgs << "-Xlint:deprecation"
+    }
+}
+
+android {
+    compileSdkVersion compileSdkVer
+    buildToolsVersion buildToolsVer
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion targetSdkVer
+        versionCode 1
+        versionName "1.0"
+        consumerProguardFiles 'consumer-proguard-rules.pro'
+    }
+    buildTypes {
+        release {
+            debuggable false
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_6
+    }
+}
+
+task javadoc(type: Javadoc) {
+    source = android.sourceSets.main.java.srcDirs
+    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+
+    options.memberLevel = JavadocMemberLevel.PUBLIC
+    options.encoding = "UTF-8"
+
+    exclude "net/time4j/tz/spi/*.java"
+    exclude "net/time4j/android/spi/*.java"
+    exclude "net/time4j/i18n/*.java"
+    exclude "net/time4j/format/internal/*.java"
+    exclude "net/time4j/history/internal/*.java"
+    exclude "net/time4j/calendar/service/*.java"
+
+    failOnError false
+}
+
+task sourcesJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    archiveClassifier.set("sources")
+}
+
+task javadocJar(type: Jar, dependsOn: javadoc) {
+    archiveClassifier.set("javadoc")
+    from javadoc.destinationDir
+}

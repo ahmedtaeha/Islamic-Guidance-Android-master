@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:id="@+id/row_surahDetail">
+
+    <TextView
+        android:id="@+id/searchDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/rounded_blue_bg"
+        android:backgroundTint="#eee"
+        android:clickable="true"
+        android:fontFamily="@font/roboto_medium"
+        android:paddingLeft="12dp"
+        android:paddingTop="3dp"
+        android:paddingRight="12dp"
+        android:paddingBottom="3dp"
+        android:text=""
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#8F8F8F"
+        android:textSize="18sp"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/arabic_textView_Surahdetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/arabic"
+        android:padding="5dp"
+        android:text="اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَۙ"
+        android:textDirection="rtl"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchDetail" />
+
+    <TextView
+        android:id="@+id/translationsFoundLbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/gray_rounded"
+        android:fontFamily="@font/roboto_medium"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="5dp"
+        android:text="2 Translations Available"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12font_mdp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/arabic_textView_Surahdetail"
+        app:layout_constraintTop_toBottomOf="@+id/arabic_textView_Surahdetail" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

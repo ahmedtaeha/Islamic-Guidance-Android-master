@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/_10mdp"
+    android:background="?android:attr/selectableItemBackground"
+    >
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textSize="@dimen/_13font_mdp"
+        android:fontFamily="@font/avgard_1"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_width="@dimen/_15mdp"
+        android:layout_height="@dimen/_15mdp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/notification_circle"
+        android:gravity="center"
+        android:layout_marginRight="@dimen/_10mdp"
+        android:text="1"
+        android:id="@+id/notification"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_10font_mdp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11:00 PM"
+            android:textSize="@dimen/_9font_mdp" />
+
+        <RatingBar
+            android:id="@+id/rating"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="3"
+            android:rating="2"
+            android:theme="@style/RatingBar" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.districthut.islam.Activities.KalimaActivity"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+
+
+
+<!--    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+<!--        android:id="@+id/adView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:visibility="gone"-->
+<!--        ads:adSize="SMART_BANNER"-->
+<!--        ads:adUnitId="@string/KALIMA_BANNER_AD"></com.google.android.gms.ads.AdView>-->
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adLayout">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <com.github.florent37.expansionpanel.viewgroup.ExpansionsViewGroupLinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    ads:expansion_openOnlyOne="true">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="#CCC" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="#CCC" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="#CCC" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="#CCC" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="#CCC" />
+
+                    <include
+                        android:id="@+id/kalima_layout_1"
+                        layout="@layout/sample_panel" />
+
+                    <include
+                        android:id="@+id/kalima_layout_2"
+                        layout="@layout/sample_panel" />
+
+                    <include
+                        android:id="@+id/kalima_layout_3"
+                        layout="@layout/sample_panel" />
+
+                    <include
+                        android:id="@+id/kalima_layout_4"
+                        layout="@layout/sample_panel" />
+
+                    <include
+                        android:id="@+id/kalima_layout_5"
+                        layout="@layout/sample_panel" />
+
+                    <include
+                        android:id="@+id/kalima_layout_6"
+                        layout="@layout/sample_panel" />
+
+                </com.github.florent37.expansionpanel.viewgroup.ExpansionsViewGroupLinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/adLayout">
+        <ImageView
+            android:id="@+id/ad_cat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:visibility="visible"
+            ads:srcCompat="@drawable/love" />
+
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

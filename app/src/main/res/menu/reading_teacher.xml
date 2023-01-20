@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Play"
+        android:id="@+id/play_pause"
+        android:icon="@drawable/ic_play_arrow"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Clear Mistakes"
+        android:id="@+id/clear_mistakes"
+        />
+    <item
+        android:title="Rank Student"
+        android:id="@+id/rank_student"/>
+    <item
+        android:title="Report to admin"
+        android:id="@+id/report_to_admin"/>
+    
+</menu>

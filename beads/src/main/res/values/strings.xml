@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeadsCounter</string>
+    <string name="edit_icon_description">Edit Beads Count</string>
+    <string name="dialog_bead_count_title">Select Beads Count</string>
+    <string name="total_beads_count">/%d</string>
+    <string name="dialog_restart_title">You\'ve done!!</string>
+    <string name="dialog_restart_message">Do you want to restart?</string>
+</resources>
